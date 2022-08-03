@@ -1,1 +1,1 @@
-
+Simple blackjack game
